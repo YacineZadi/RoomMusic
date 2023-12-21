@@ -17,7 +17,7 @@ export default class Room extends Component {
       .then((response) => response.json())
       .then((data) => {
         this.setState({
-          votesToSkip: data.votes_to_skip,
+          votesToSkip: data.vote_to_skip,
           guestCanPause: data.guest_can_pause,
           isHost: data.is_host,
         });
