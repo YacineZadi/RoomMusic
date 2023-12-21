@@ -6,6 +6,6 @@ import React, {Component} from "react";
     }
 
     render(){
-        return <h1>This is join page</h1>;
+        return <h1>This is the room join page</h1>;
     }
  }
