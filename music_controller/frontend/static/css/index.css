@@ -19,7 +19,7 @@ body {
 }
 .center{
   position: absolute;
-  top:40%;
-  left: 40%;
-  transform: translate(-40%,40%); 
+  /* top:30%; */
+  left: 30%;
+  transform: translate(-30%,60%); 
 }
