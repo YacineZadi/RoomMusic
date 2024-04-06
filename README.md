@@ -2,6 +2,13 @@
 A Web Application that allow the users to control the music using Spotify API.
 ## Setup Instructions
 
+### get your Spotify Credential
+go to credentials.py and enter your unique credentials.
+```bash
+CLIENT_ID = ""
+CLIENT_SECRET = ""
+```
+
 ### Install Required Python Modules
 
 ```bash
