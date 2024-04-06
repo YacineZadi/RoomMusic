@@ -38,3 +38,7 @@ or for development:
 ```bash
 npm run dev
 ```
+In a second terminal run the Django Web Server
+```bash
+python manage.py runserver
+```
