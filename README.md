@@ -5,6 +5,7 @@
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### [Install Node.js](https://nodejs.org/en/)
 
