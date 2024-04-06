@@ -1,4 +1,5 @@
 **Music-Controller-Web-App**
+A Web Application that allow the users to control the music using Spotify API.
 ## Setup Instructions
 
 ### Install Required Python Modules
